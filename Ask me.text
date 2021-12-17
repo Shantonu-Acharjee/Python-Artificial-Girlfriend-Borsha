@@ -1,0 +1,18 @@
+elif '' in query or 'barsha  ' in query or 'varsha   ' in query or '  borsha' in query or ' vorsha'in query :
+
+
+
+or' ' in query or 'borsha  ' in query or 'vorsha w ' in query or '  borsha' in query or '  vorsha' in query:
+
+
+# d = randint(1,20)
+
+
+1.who are you/what is your name
+2.how are you/what about you
+3.hi/hello/hey/hay borsha
+4.who make/create/father/mother
+5.sing a song/music
+6.what is the time
+7.good bye
+8.what is your birth day
